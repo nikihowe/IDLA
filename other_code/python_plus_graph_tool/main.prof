@@ -1,0 +1,125 @@
+average seq time: nan
+         3989700 function calls (3989698 primitive calls) in 21.143 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   21.143   21.143 <string>:1(<module>)
+        1    0.000    0.000    0.000    0.000 <string>:12(__new__)
+        1    0.000    0.000    0.000    0.000 __init__.py:1314(__init__)
+        1    0.000    0.000    0.000    0.000 __init__.py:1318(__setitem__)
+        1    0.000    0.000    0.000    0.000 __init__.py:1331(__set_property)
+        3    0.000    0.000    0.000    0.000 __init__.py:1367(__init__)
+    73197    0.116    0.000    0.116    0.000 __init__.py:1374(__getitem__)
+        1    0.000    0.000    0.000    0.000 __init__.py:1394(__setitem__)
+        2    0.000    0.000    0.000    0.000 __init__.py:140(_to_str)
+        1    0.000    0.000    0.000    0.000 __init__.py:1535(__init__)
+        1    0.003    0.003    0.003    0.003 __init__.py:1541(complete_graph)
+       40    0.014    0.000    0.014    0.000 __init__.py:1740(get_vertices)
+    81197    6.018    0.000    6.018    0.000 __init__.py:1759(vertex)
+        4    0.000    0.000    0.002    0.001 __init__.py:208(_type_alias)
+    73198    0.031    0.000    0.031    0.000 __init__.py:2161(<lambda>)
+        1    0.001    0.001    0.004    0.004 __init__.py:2298(new_vertex_property)
+        3    0.000    0.000    0.000    0.000 __init__.py:231(_python_type)
+        1    0.000    0.000    0.000    0.000 __init__.py:2567(set_directed)
+        1    0.000    0.000    0.000    0.000 __init__.py:2698(get_vertex_filter)
+        3    0.000    0.000    0.000    0.000 __init__.py:270(_converter)
+    16000    0.014    0.000    0.014    0.000 __init__.py:283(convert)
+       82    0.000    0.000    0.000    0.000 __init__.py:2858(num_vertices)
+        5    0.000    0.000    0.000    0.000 __init__.py:2912(__get_base)
+        2    0.002    0.001    0.002    0.001 __init__.py:3173(value_types)
+  1600000    2.224    0.000    2.224    0.000 __init__.py:3181(_out_neighbors)
+        3    0.000    0.000    0.000    0.000 __init__.py:383(__init__)
+    73197    0.051    0.000    0.066    0.000 __init__.py:405(__key_trans)
+    73197    0.237    0.000    5.687    0.000 __init__.py:411(__key_convert)
+        3    0.000    0.000    0.000    0.000 __init__.py:428(__register_map)
+        3    0.000    0.000    0.000    0.000 __init__.py:433(__unregister_map)
+        3    0.000    0.000    0.000    0.000 __init__.py:438(__del__)
+    57197    4.840    0.000    9.348    0.000 __init__.py:441(__getitem__)
+    16000    2.511    0.000    3.770    0.000 __init__.py:459(__setitem__)
+        3    0.000    0.000    0.000    0.000 __init__.py:541(get_graph)
+   219592    0.048    0.000    0.048    0.000 __init__.py:548(key_type)
+        3    0.000    0.000    0.000    0.000 __init__.py:552(value_type)
+        1    0.000    0.000    0.000    0.000 __init__.py:560(get_array)
+        1    0.000    0.000    0.000    0.000 __init__.py:582(_get_data)
+        1    0.000    0.000    0.000    0.000 __init__.py:615(__get_set_f_array)
+        1    0.000    0.000    0.000    0.000 __init__.py:662(<lambda>)
+        1    0.000    0.000    0.000    0.000 __init__.py:900(_set_pmap)
+        1    0.000    0.000    0.000    0.000 __init__.py:906(__new__)
+        1    0.000    0.000    0.000    0.000 _methods.py:43(_count_reduce_items)
+        1    0.000    0.000    0.052    0.052 _methods.py:53(_mean)
+        2    0.000    0.000    0.000    0.000 codecs.py:259(__init__)
+        2    0.000    0.000    0.000    0.000 codecs.py:308(__init__)
+       16    0.000    0.000    0.000    0.000 codecs.py:318(decode)
+        1    0.000    0.000    0.000    0.000 decorators.py:1(__set_property)
+        1    0.000    0.000    0.000    0.000 decorators.py:1(__setitem__)
+      3/1    0.000    0.000    0.000    0.000 decorators.py:126(wrapper)
+        1    0.000    0.000    0.000    0.000 decorators.py:95(wrap)
+        1    0.000    0.000    0.000    0.000 decorators.py:99(<listcomp>)
+        1    0.000    0.000    0.052    0.052 fromnumeric.py:2854(mean)
+       40    0.023    0.001    1.902    0.048 graph_functions.py:103(reset_graph)
+       40    0.013    0.000   21.072    0.527 graph_functions.py:108(run_sequential_particles)
+        1    0.000    0.000    0.007    0.007 graph_functions.py:16(make_clique)
+        1    0.000    0.000    0.000    0.000 graph_functions.py:21(<listcomp>)
+       40    2.127    0.053    5.136    0.128 graph_functions.py:73(get_neighbour_cache)
+     8000    0.837    0.000   14.006    0.002 graph_functions.py:85(generate_and_save_path)
+        1    0.000    0.000    0.000    0.000 inspect.py:1026(getargspec)
+        1    0.000    0.000    0.000    0.000 inspect.py:1051(getfullargspec)
+        2    0.000    0.000    0.000    0.000 inspect.py:158(isfunction)
+        1    0.000    0.000    0.000    0.000 inspect.py:2064(_signature_from_function)
+        1    0.000    0.000    0.000    0.000 inspect.py:2145(_signature_from_callable)
+        4    0.000    0.000    0.000    0.000 inspect.py:2398(__init__)
+        8    0.000    0.000    0.000    0.000 inspect.py:2433(name)
+        4    0.000    0.000    0.000    0.000 inspect.py:2437(default)
+        4    0.000    0.000    0.000    0.000 inspect.py:2441(annotation)
+        4    0.000    0.000    0.000    0.000 inspect.py:2445(kind)
+        1    0.000    0.000    0.000    0.000 inspect.py:2665(__init__)
+        5    0.000    0.000    0.000    0.000 inspect.py:2710(<genexpr>)
+        1    0.000    0.000    0.000    0.000 inspect.py:2740(parameters)
+        1    0.000    0.000    0.000    0.000 inspect.py:2744(return_annotation)
+        2    0.000    0.000    0.052    0.026 linecache.py:15(getline)
+        2    0.000    0.000    0.052    0.026 linecache.py:37(getlines)
+        2    0.000    0.000    0.052    0.026 linecache.py:82(updatecache)
+        1    0.010    0.010   21.143   21.143 main.py:8(timing_test)
+        1    0.000    0.000    0.000    0.000 numeric.py:424(asarray)
+        1    0.000    0.000    0.000    0.000 numeric.py:495(asanyarray)
+        2    0.000    0.000    0.001    0.001 tokenize.py:357(detect_encoding)
+        2    0.000    0.000    0.001    0.001 tokenize.py:381(read_or_stop)
+        2    0.000    0.000    0.000    0.000 tokenize.py:387(find_cookie)
+        2    0.000    0.000    0.050    0.025 tokenize.py:450(open)
+        2    0.000    0.000    0.052    0.026 warnings.py:10(showwarning)
+        2    0.000    0.000    0.052    0.026 warnings.py:22(formatwarning)
+        2    0.000    0.000    0.000    0.000 {built-in method __new__ of type object at 0x1009767a0}
+       16    0.000    0.000    0.000    0.000 {built-in method _codecs.utf_8_decode}
+        2    0.000    0.000    0.010    0.005 {built-in method _warnings.warn}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.callable}
+        1    0.000    0.000   21.143   21.143 {built-in method builtins.exec}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.hasattr}
+        6    0.000    0.000    0.000    0.000 {built-in method builtins.id}
+       13    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+        2    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+        5    0.000    0.000    0.000    0.000 {built-in method builtins.len}
+       41    0.002    0.000    0.002    0.000 {built-in method builtins.print}
+        2    0.049    0.024    0.049    0.024 {built-in method io.open}
+        2    0.000    0.000    0.000    0.000 {built-in method numpy.core.multiarray.array}
+        2    0.000    0.000    0.000    0.000 {built-in method posix.stat}
+  1649205    0.204    0.000    0.204    0.000 {method 'append' of 'list' objects}
+    49197    1.763    0.000    1.763    0.000 {method 'choice' of 'mtrand.RandomState' objects}
+        2    0.000    0.000    0.000    0.000 {method 'decode' of 'bytes' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        2    0.000    0.000    0.000    0.000 {method 'endswith' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+        5    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        4    0.000    0.000    0.000    0.000 {method 'isidentifier' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 {method 'keys' of 'dict' objects}
+        4    0.000    0.000    0.000    0.000 {method 'match' of '_sre.SRE_Pattern' objects}
+        2    0.001    0.001    0.001    0.001 {method 'readline' of '_io.BufferedReader' objects}
+        2    0.001    0.000    0.001    0.000 {method 'readlines' of '_io._IOBase' objects}
+        1    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+        2    0.000    0.000    0.000    0.000 {method 'seek' of '_io.BufferedReader' objects}
+        2    0.000    0.000    0.000    0.000 {method 'startswith' of 'bytes' objects}
+        2    0.000    0.000    0.000    0.000 {method 'startswith' of 'str' objects}
+        2    0.000    0.000    0.000    0.000 {method 'strip' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 {method 'values' of 'mappingproxy' objects}
+        1    0.000    0.000    0.000    0.000 {method 'view' of 'numpy.ndarray' objects}
+        2    0.000    0.000    0.000    0.000 {method 'write' of '_io.TextIOWrapper' object}
