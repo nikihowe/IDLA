@@ -15,4 +15,4 @@ later shifted to C++. To see a simple comparison between running speeds in the t
 run the exact same process, yet have different runtimes (with Julia and C++ comparable, but both much faster than Python).
 
 Please see the readme in the cpp directory for instructions on how to use the software, the plots directory for
-some example plots, the other_code directory for some old code and some very specific code, and the analysis directory for a Jupyter notebook with example data processing and plotting of output from the software.
+some example plots, and the other_code directory for some old code and some very specific code.
