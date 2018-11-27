@@ -1,7 +1,6 @@
 (c) Nikolaus Howe 2018
 
-This code is the product of work over the summer for Thomas Sauerwald (and John Sylvester and Nicolas Rivera) during Summer 2018
-at the Computer Laboratory at Cambridge.
+This code is the product of work over the summer for Thomas Sauerwald (and John Sylvester and Nicolas Rivera) during Summer 2018 at the Computer Laboratory at Cambridge.
 
 The bulk of this work was focused on developing simulations for the sequential and parallel IDLA processes on different graph topologies.
 
